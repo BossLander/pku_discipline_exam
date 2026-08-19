@@ -1,0 +1,4 @@
+interface:
+  display_name: "北大在线考试助手"
+  short_description: "用浏览器自动化完成北大校规校纪与网络安全线上考试并获取高分"
+  default_prompt: "使用 $pku-exam 协助完成北大在线考试答题"
