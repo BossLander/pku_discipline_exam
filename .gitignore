@@ -1,0 +1,15 @@
+# 运行时产物（浏览器 profile 与截图，勿提交）
+exam_profile/
+exam_shots/
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# 系统杂项
+.DS_Store
+Thumbs.db
+desktop.ini
